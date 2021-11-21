@@ -14,12 +14,12 @@
 
   [ X ] Não é permitido cadastrar mais de uma tag com o mesmo nome
 
-  [ ] Não é permitido o cadastro por usuários que não sejam administradores
+  [ X ] Não é permitido o cadastro por usuários que não sejam administradores
 
 - Cadastro de elogios
 
-  [ ] Não é permitido um usuário cadastrar um elogio para si
+  [ X ] Não é permitido um usuário cadastrar um elogio para si
 
-  [ ] Não é permitido cadastrar elogios para usuarios inválidos
+  [ X ] Não é permitido cadastrar elogios para usuarios inválidos
 
-  [ ] O usuário precisa estar autenticado na aplicação
+  [ X ] O usuário precisa estar autenticado na aplicação
