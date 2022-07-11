@@ -1,5 +1,7 @@
 # NLW Valoriza
 
+Projeto da Rocketseat como forma de estudo sobre Backend e Typescript 
+
 ## Regras
 
 - Cadastro de Usuário
